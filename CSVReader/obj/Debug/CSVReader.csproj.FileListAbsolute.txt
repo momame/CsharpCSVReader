@@ -1,0 +1,5 @@
+c:\users\mo\documents\visual studio 2015\Projects\CSVReader\CSVReader\bin\Debug\CSVReader.exe.config
+c:\users\mo\documents\visual studio 2015\Projects\CSVReader\CSVReader\bin\Debug\CSVReader.exe
+c:\users\mo\documents\visual studio 2015\Projects\CSVReader\CSVReader\bin\Debug\CSVReader.pdb
+c:\users\mo\documents\visual studio 2015\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.exe
+c:\users\mo\documents\visual studio 2015\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.pdb
